@@ -25,3 +25,5 @@ bash
 curl -X POST http://localhost:8002/predict \
   -H "Content-Type: application/json" \
   -d '{"square_footage":1500,"bedrooms":3,"bathrooms":2,"year_built":2000,"lot_size":5000,"distance_to_city_center":10,"school_rating":7}'
+   <img width="1427" height="780" alt="Swagger" src="https://github.com/user-attachments/assets/7f31073b-a56b-44d1-acc9-720410c3b314" />
+
